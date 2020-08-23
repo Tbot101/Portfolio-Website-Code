@@ -1,0 +1,2 @@
+# Portfolio-Website-Code
+This is the code for my portfolio website. I have used skrollr to create the parallax effect. I have another javascript file with the code for the colorful scrollbar (computer only) I have as well as the toggle button (phone only). I have a PHP file which is used to provide the backend for the form on my website. There is then of course the CSS and HTML file which is used for this project.
